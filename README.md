@@ -1,5 +1,3 @@
-# EngenhariadePrompt_AplicacoesAI-Unidade3.md
-Atividades práticas
 # 👋 Olá, sou Guilherme Aguilar
 
 Bem-vindo ao meu perfil do GitHub! Sou apaixonado por resolver problemas e criar soluções elegantes através do código.
